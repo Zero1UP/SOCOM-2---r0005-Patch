@@ -1,0 +1,15 @@
+Many thanks to Misfire!
+
+Functions provided my him:
+KernelRead()
+HookSyscall() - the all important one :)
+
+and the PS2dev folks for all their great examples included with the SDK
+
+6-23-18 App Cleaned Up and Tweaked By Based_Skid
+- Added in IOP Reset To Ensure Clean Set of Modules are Loaded
+- Access to User Memory
+- Moved ASM(Codes) To ASM.C to make life a lil easier.
+-Adjusted Make File to Include SBV patches and to Automatically Create Packed ELF
+-IOPreset and gotoOSDSYS are Recycled from 1up & Based_Skid Mass Format Utility
+

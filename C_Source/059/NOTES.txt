@@ -1,0 +1,7 @@
+
+
+variables:
+
+000F8FF0 - CHECKSUM BOOL. Should always be 0 unless the checksum fails.
+000F8FF4 - MAIN CODES BOOL. Should always be 1 unless the checksum fnc or function stacks are overwritten.
+
