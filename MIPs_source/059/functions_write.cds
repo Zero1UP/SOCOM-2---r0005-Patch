@@ -263,12 +263,12 @@ address $000D0000
 import "C:\r0005\MIPs_source\059\all maps respawn.cds"
 nop
 
-// clan tags
-import "C:\r0005\MIPs_source\059\clan tag.cds"
-nop
-
 // code check
 import "C:\r0005\MIPs_source\059\code check.cds"
+nop
+
+// clan tags
+import "C:\r0005\MIPs_source\059\clan tag.cds"
 nop
 
 // day maps
@@ -288,13 +288,13 @@ nop
 import "C:\r0005\MIPs_source\059\LAN Ranks.cds"
 nop
 
-// Select Menu
-import "C:\r0005\MIPs_source\059\select screen.cds"
-nop
-
 // Join patched games
 import "C:\r0005\MIPs_source\059\join patched games_new.cds"
 //import "C:\r0005\MIPs_source\059\join patched games.cds"
+nop
+
+// Select Menu
+import "C:\r0005\MIPs_source\059\select screen.cds"
 nop
 
 // Version menu
